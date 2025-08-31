@@ -1,0 +1,49 @@
+### 1. Konsep Dasar
+- **Bank**: lembaga dengan izin menerima simpanan, memberi kredit, serta mengelola instrumen pembayaran.  
+- **Risiko**: peluang outcome negatif.  
+  - *Kejadian risiko*: peristiwa penyebab kerugian.  
+  - *Risiko kerugian*: dampak finansial maupun non-finansial.  
+
+
+### 2. Mengapa Bank Perlu Diregulasi?
+- Bank mengelola **uang masyarakat**, kegagalan → **risiko sistemik**.  
+- Regulasi menjaga:  
+  - **Stabilitas keuangan**  
+  - **Perlindungan nasabah**  
+  - **Kepercayaan publik (hindari bank rush)**  
+
+
+### 3. Basel Accord
+
+| Basel Accord | Tahun | Fokus Utama | Catatan |
+|--------------|-------|-------------|---------|
+| **Basel I** | 1988  | Risiko kredit | Bobot risiko sederhana, target capital ratio 8% |
+| **Market Risk Amendment** | 1996  | Risiko pasar | Mulai gunakan *Value at Risk (VaR)* |
+| **Basel II** | 2004  | Kredit, pasar, operasional | Komprehensif, berbasis model internal bank |
+
+
+### 4. Jenis Risiko Utama
+1. **Risiko Pasar** – akibat perubahan suku bunga, kurs, ekuitas, komoditas.  
+2. **Risiko Kredit** – debitur gagal bayar. Mitigasi: pemeringkatan, diversifikasi portofolio, sekuritisasi, agunan, monitoring arus kas, recovery.  
+3. **Risiko Operasional** – akibat kegagalan proses internal, manusia, sistem, eksternal. Contoh: Barings Bank (1995), virus komputer (1999).  
+4. **Risiko Lainnya** – bisnis, strategis, reputasi.  
+
+
+### 5. Dampak Risiko
+- **Pemegang Saham**: kehilangan modal/investasi.  
+- **Pegawai**: sanksi internal, pemotongan gaji/PHK.  
+- **Nasabah**: kerugian langsung/tidak langsung, hilangnya kepercayaan.  
+- **Perekonomian**: krisis keuangan, resesi lebih dalam.  
+
+
+## 📖 Kesimpulan
+Risiko adalah bagian tak terpisahkan dari perbankan. Regulasi (seperti **Basel Accord**) memastikan bank memiliki:  
+- **Modal yang cukup**  
+- **Likuiditas memadai**  
+- **Manajemen risiko yang baik**  
+
+👉 Dengan itu, stabilitas sistem keuangan terjaga dan kepentingan seluruh stakeholder terlindungi.  
+
+## 📚 Referensi
+- Global Association of Risk Professionals & BSMR, *Risiko dan Regulasi Perbankan* (Bab 1).  
+- Basel Committee on Banking Supervision, Basel I & II Accord. 
