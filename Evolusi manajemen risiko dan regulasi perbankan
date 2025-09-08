@@ -1,0 +1,77 @@
+🏦 Mengapa Bank Perlu Diregulasi?
+
+Bank bersifat khusus karena krisis di sektor ini dapat merusak ekonomi secara keseluruhan.
+
+Risiko utama:
+
+Insolvabilitas → ketidakmampuan bayar kewajiban.
+
+Krisis likuiditas → penarikan dana besar-besaran oleh deposan.
+
+Peran Bank Sentral: menjaga stabilitas keuangan & moneter.
+
+🌍 Liberalisasi Keuangan
+
+Dimulai tahun 1970–1980-an: penghapusan hambatan kompetisi, batas suku bunga, dan kontrol modal.
+
+Dampak:
+
+Persaingan meningkat.
+
+Inovasi produk keuangan (futures, opsi, sekuritisasi aset).
+
+Risiko meningkat, perlu regulasi baru.
+
+📑 Basel I Accord (1988)
+
+Dibuat oleh Basel Committee on Banking Supervision (BCBS).
+
+Tujuan:
+
+Menjaga stabilitas sistem perbankan internasional.
+
+Menyediakan kerangka kerja pengukuran kecukupan modal.
+
+Mengurangi ketidaksetaraan kompetitif antar bank.
+
+Konsep Utama:
+
+ATMR (Aset Tertimbang Menurut Risiko / RWA) → aktiva × bobot risiko.
+
+Rasio modal minimum 8% terhadap ATMR.
+
+Struktur modal:
+
+Tier 1 (modal inti) → saham, cadangan laba.
+
+Tier 2 (modal pelengkap) → cadangan umum, subordinated debt.
+
+Tier 3 → khusus risiko pasar.
+
+📊 Market Risk Amendment (1996)
+
+Basel I dikritik karena kurang sensitif terhadap risiko.
+
+Diperkenalkan Value at Risk (VaR):
+
+Mengukur potensi kerugian maksimum dalam periode tertentu pada tingkat kepercayaan statistik (95% atau 99%).
+
+Contoh: DVaR USD 5 juta @ 95% → ada 5% kemungkinan kerugian > USD 5 juta dalam 1 hari perdagangan.
+
+Memperkenalkan regulasi berbasis risiko dengan penerimaan internal models bank.
+
+⚠️ Keterbatasan Basel I
+
+Tidak membedakan kualitas kredit:
+
+Pinjaman ke perusahaan AAA ≈ sama dengan pinjaman ke perusahaan berisiko tinggi.
+
+Tidak cukup mencakup risiko non-kredit.
+
+Mendorong lahirnya Basel II.
+
+📌 Basel II (1999 →)
+
+Mengembangkan pendekatan yang lebih komprehensif untuk semua jenis risiko perbankan.
+
+Menjadi dasar regulasi modal di Uni Eropa melalui Capital Requirements Directive (CRD).
